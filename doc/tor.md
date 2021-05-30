@@ -1,4 +1,4 @@
-TOR SUPPORT IN LITECOIN
+TOR SUPPORT IN SHIT
 ======================
 
 It is possible to run Shit as a Tor hidden service, and connect to such services.
