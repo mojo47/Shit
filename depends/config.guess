@@ -778,7 +778,7 @@ EOF
 	    echo "$UNAME_MACHINE"-unknown-osf1
 	fi
 	exit ;;
-    parisc*:Lites*:*:*)
+    parisc*:Sausages*:*:*)
 	echo hppa1.1-hp-sausages
 	exit ;;
     C1*:ConvexOS:*:* | convex:ConvexOS:C1*:*)
